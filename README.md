@@ -15,7 +15,7 @@
 2. Aşama [2,27,16,22,18,6] -> (n-1)
 3. Aşama [2,6,16,22,18,27] -> (n-2)
 4. Aşama [2,6,16,18,22,27] -> 1
-´´´
+
 ```
 
 **Soru 3 Best Case, Average Case, Worst Case durumları**
