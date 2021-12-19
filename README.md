@@ -1,10 +1,10 @@
 # veriAnaliziOdev1
 **Soru 1 Insertion Sort türüne göre aşamaları**
-´´´
+```
 1. Aşama [22,27,16,2,18,6]
 2. Aşama [2,27,16,22,18,6]
 3. Aşama [2,6,16,22,18,27]
-4. Aşama [2,6,16,18,22,27]
+4. Aşama [2,6,16,18,22,27]´´´
 
 **Soru 2 Big-O gösterimi**
 
